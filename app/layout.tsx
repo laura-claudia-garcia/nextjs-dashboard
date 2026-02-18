@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   },
   description: 'The official Next.js Learn Dashboard built with App Router.',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
+  keywords: 'keyword1, keyword2, keyword3',
 }
 
 export default function RootLayout({
